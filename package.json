@@ -1,0 +1,11 @@
+{
+  "name": "find-fb-messages-per-sender",
+  "version": "0.0.0",
+  "description": "Find messages per sender in a thread of \"Facebook Messenger\"",
+  "main": "index.js",
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "facebook-chat-api": "^1.4.0"
+  }
+}
